@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tatata53531010/calendar.git"
+    "url": "git+https://github.com/ota10p/calendar.git"
   },
   "bugs": {
-    "url": "https://github.com/tatata53531010/calendar/issues"
+    "url": "https://github.com/ota10p/calendar/issues"
   },
-  "homepage": "https://github.com/tatata53531010/calendar#readme",
+  "homepage": "https://github.com/ota10p/calendar#readme",
   "description": ""
 }
